@@ -1,30 +1,53 @@
 # Ignoring everything
 *
+!*/
+/.cache
+/.dbus
+/.dropbox
+/.dropbox-dist
+/.gnupg
+/.mozilla
+/.nv
+/.paradoxlauncher
+/.ssh
+/.steam
+/.vscode
+/Desktop
+/Documents
+/Pictures
+/Videos
+/Documents
+/snap
+/Music
+/Dropbox
+/Public
+/Projects
+
 
 
 # home directory
-!/.vim/*
+!/.vim/**
 !.vimrc
 !.bashrc
 !.gitconfig
-!.gtc.dconf
+!gtc.dconf
 !.gitignore
-!/.fonts/*
-!/scripts/*
+!/.fonts/**
+!/scripts/**
 
 
 # .config folder
-!/.config/fish/*
-!/.config/gtk-3.0/*
-!/.config/neofetch/*
-!/.config/omf/*
-!/.config/plank/*
-!/.config/vim/*
+!.config/fish/**
+!.config/gtk-3.0/**
+!.config/neofetch/**
+!.config/omf/**
+!.config/plank/**
+!.config/vim/**
 
 
 # .local folder
-!/.local/share/fish/*
-!/.local/share/icons/*
-!/.local/share/omf/*
-!/.local/share/plank/*
-!/.local/share/themes/*
+!/.local/share/fish/**
+!/.local/share/icons/**
+!/.local/share/omf/**
+!/.local/share/plank/**
+!/.local/share/themes/**
