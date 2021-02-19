@@ -1,0 +1,30 @@
+# Ignoring everything
+*
+
+
+# home directory
+!/.vim/*
+!.vimrc
+!.bashrc
+!.gitconfig
+!.gtc.dconf
+!.gitignore
+!/.fonts/*
+!/scripts/*
+
+
+# .config folder
+!/.config/fish/*
+!/.config/gtk-3.0/*
+!/.config/neofetch/*
+!/.config/omf/*
+!/.config/plank/*
+!/.config/vim/*
+
+
+# .local folder
+!/.local/share/fish/*
+!/.local/share/icons/*
+!/.local/share/omf/*
+!/.local/share/plank/*
+!/.local/share/themes/*
