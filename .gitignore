@@ -44,7 +44,8 @@
 !.config/omf/**
 !.config/plank/**
 !.config/vim/**
-
+!.config/i3/**
+!.config/compton.conf
 
 # .local folder
 !/.local/share/fish/**
