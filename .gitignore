@@ -23,10 +23,11 @@
 /Dropbox
 /Public
 /Projects
-
+/.config/balena-etcher-electron
 
 
 # home directory
+!Pictures/Wallpaper/**
 !/.vim/**
 !.vimrc
 !.bashrc
@@ -46,6 +47,8 @@
 !.config/vim/**
 !.config/i3/**
 !.config/compton.conf
+!.config/rofi/**
+
 
 # .local folder
 !/.local/share/fish/**
