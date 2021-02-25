@@ -1,4 +1,4 @@
-
+syntax on
 set number  
 set nowrap	
 set linebreak	
@@ -14,7 +14,8 @@ set smartcase
 set ignorecase	
 set incsearch	
  
-set autoindent	
+set autoindent
+set tabstop=4
 set shiftwidth=4	
 set smartindent	
 set smarttab	
